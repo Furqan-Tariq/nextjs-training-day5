@@ -15,6 +15,12 @@ export default function Navigation() {
           <Link href="/contact" className="hover:text-blue-200 transition-colors">
             Contact
           </Link>
+          <Link href="/cunter" className="hover:text-blue-200 transition-colors">
+            Counter
+          </Link>
+          <Link href="/fetching" className="hover:text-blue-200 transition-colors">
+            Fetching
+          </Link>
         </div>
       </div>
     </nav>
